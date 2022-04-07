@@ -1,6 +1,9 @@
 # ChatOps: Building Your First Webex Bot
 
-THe code in this branch corresponds to the post [found here]().  You can use it as a reference as you follow along, or as a starting point for building your own functionality.
+The code in this branch corresponds to the post [found here]().  You can use it as a reference as you follow along, or as a starting point for building your own functionality.
+
+## Architecture
+![First Webex Bot Architecture](resources/chatops-01.jpg)
 
 ## To Run Locally:
 - Clone this repo
